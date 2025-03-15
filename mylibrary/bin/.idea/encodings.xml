@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/controller/ReaderController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/controller/TypeController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/controller/commonController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/controller/libraryController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/dao/AdminMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/dao/BookMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/dao/LendInfoMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/dao/ReaderMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/dao/TypeMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/interceptor/LoginInterceptor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/listener/StartSystemListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/pojo/Admin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/pojo/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/pojo/Category.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/pojo/LendInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/pojo/Reader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/service/AdminService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/service/BookService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/service/LendInfoSerivce.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/service/ReaderService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/service/TypeService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/service/impl/AdminServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/service/impl/BookServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/service/impl/LendInfoSerivceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/service/impl/ReaderServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/service/impl/TypeServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/util/AjaxResult.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/util/Const.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/util/PageBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wdd/library/util/StringUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/lay/modules/laydate.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/lay/modules/laypage.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/laydate.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/layui.all.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/layui.js" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
