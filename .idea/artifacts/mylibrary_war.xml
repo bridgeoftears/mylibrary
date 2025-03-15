@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mylibrary:war">
+    <output-path>$PROJECT_DIR$/mylibrary/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>mylibrary</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="mylibrary.war">
+      <element id="artifact" artifact-name="mylibrary:war exploded" />
+    </root>
+  </artifact>
+</component>
